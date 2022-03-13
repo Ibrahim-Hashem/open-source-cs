@@ -7,6 +7,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
+[C Programming](https://www.youtube.com/watch?v=Bz4MxDeEM6k&t=135s)
 [Mathematical Thinking in Computer Science](https://www.youtube.com/watch?v=i8sphCg1yTs) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 
 ## Programming
